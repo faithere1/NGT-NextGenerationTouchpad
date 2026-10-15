@@ -81,3 +81,7 @@ Tweak the constants at the top of `ngt.m` and rebuild:
    clicks) to that absolute point, so the cursor never drifts.
 
 All in one file: [`ngt.m`](ngt.m).
+
+## License
+
+[MIT](LICENSE) © faithere1
